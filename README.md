@@ -37,7 +37,7 @@ image = cv2.imread('path/to/your/image.jpg')
 Install the required libraries using pip:
 
 ```bash
-pip install opencv-python-headless numpy
+pip install opencv-python opencv-python-headless numpy
 ```
 
 ## Contributions
